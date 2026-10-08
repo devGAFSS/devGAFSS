@@ -16,7 +16,7 @@
   experiência em <strong>front-end</strong> e também conhecimentos em <strong>back-end</strong>,
   buscando sempre aprimorar minhas habilidades e transformar ideias em projetos funcionais.
 </p>
-<h2>Linguagens e tecnologias</h2>
+<h2>Competências técnicas</h2>
 <div>
   <img width="30px" align="left" title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <img width="30px" align="left" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
