@@ -22,7 +22,7 @@
 </p>
 <h2>🛠️ Competências técnicas</h2>
 <div>
-  <img height="25px" title="Luau (Roblox)" alt="Luau (Roblox)" src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
+  <img width="40px" title="Luau (Roblox)" alt="Luau (Roblox)" src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg"/>
   <img width="40px" title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
   <img width="40px" title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
   <img width="35px" title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
