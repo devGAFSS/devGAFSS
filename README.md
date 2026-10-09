@@ -23,8 +23,8 @@
 <h2>🛠️ Competências técnicas</h2>
 <div>
   <img width="40px" title="Luau (Roblox)" alt="Luau (Roblox)" src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg"/>
-  <img width="40px" title="HTML" alt="HTML" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"/>
-  <img width="40px" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+  <img width="35px" title="HTML" alt="HTML" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"/>
+  <img width="45px" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
   <img width="35px" title="C++" alt="C++" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg"/>
   <img width="40px" title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img width="35px" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
