@@ -1,26 +1,26 @@
-<h1>👋 Sobre mim</h1>
-<h2>🎮 Como tudo começou</h2>
+<h1>👋 About me</h1>
+<h2>🎮 How it all started</h2>
 <p>
-  Minha trajetória na programação começou no final de 2021, quando comecei a criar
-  projetos na plataforma Roblox. No início, era algo que eu fazia por diversão,
-  criando poderes, animações e sistemas. Com o tempo, passei a me interessar cada
-  vez mais pela programação e comecei a estudar de forma mais séria.
+  My journey into programming started in late 2021, when I began creating projects
+  on Roblox. At first, it was just a hobby. I enjoyed creating powers, animations,
+  and systems. Over time, I became more and more interested in programming and
+  started taking it more seriously.
 </p>
-<h2>🎓 Evolução</h2>
+<h2>🎓 Growth</h2>
 <p>
-  Foi no Roblox que tive meus primeiros contatos com lógica de programação e comecei
-  a desenvolver minha base como programador. Em fevereiro de 2026, ingressei no curso
-  de <strong>Informática para Internet na Etec de Praia Grande</strong>, onde ampliei
-  meus conhecimentos e comecei a trabalhar com diversas tecnologias voltadas ao
-  desenvolvimento web.
+  Roblox was where I first learned programming logic and started building my
+  foundation as a programmer. In February 2026, I enrolled in the
+  <strong>Technical Course in Web Development (Informática para Internet)</strong>
+  at Etec in Praia Grande, Brazil, where I expanded my knowledge and started
+  working with various technologies related to web development.
 </p>
-<h2>🎯 Foco atual</h2>
+<h2>🎯 Current focus</h2>
 <p>
-  Atualmente, meu principal foco é o <strong>desenvolvimento web</strong>. Tenho maior
-  experiência em <strong>front-end</strong> e também conhecimentos em <strong>back-end</strong>,
-  buscando sempre aprimorar minhas habilidades e transformar ideias em projetos funcionais.
+  My main focus is now <strong>web development</strong>. I'm more experienced
+  in <strong>front-end</strong> and also have knowledge of <strong>back-end</strong>,
+  always looking to improve my skills and turn ideas into functional projects.
 </p>
-<h2>🛠️ Competências técnicas</h2>
+<h2>🛠️ Technical skills</h2>
 <div>
   <img width="40px" title="Luau (Roblox)" alt="Luau (Roblox)" src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg"/>
   <img width="35px" title="HTML" alt="HTML" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"/>
@@ -35,8 +35,8 @@
   <img width="40px" title="React" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   -->
 </div>
-<h2>💡 Curiosidade</h2>
+<h2>💡 Fun fact</h2>
 <blockquote>
-  Tudo começou criando poderes no Roblox por diversão, e hoje isso virou a base
-  da minha trajetória como programador. 🎮➡️💻
+  It all started with creating powers on Roblox for fun, and now it's become
+  the foundation of my journey as a programmer. 🎮➡️💻
 </blockquote>
