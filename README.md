@@ -38,7 +38,7 @@
 <h2>📊 GitHub Stats</h2>
 <div>
   <img height="170px" align="top" alt="GitHub Overview" src="https://github-readme-stats.vercel.app/api?username=devGAFSS&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=GitHub%20Overview&locale=en&card_width=400"/>
-  <img height="170px" align="top" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGAFSS&theme=tokyonight&layout=normal&custom_title=Most%20Used%20Languages&langs_count=4&card_width=400"/>
+  <img height="170px" align="top" alt="Most Used Skills" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devGAFSS&theme=tokyonight&layout=normal&custom_title=Most%20Used%20Skills&langs_count=4&card_width=400"/>
 </div>
 <h2>💡 Fun fact</h2>
 <blockquote>
